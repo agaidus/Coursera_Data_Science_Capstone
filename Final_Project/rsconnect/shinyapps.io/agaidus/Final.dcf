@@ -1,0 +1,10 @@
+name: Final
+account: agaidus
+server: shinyapps.io
+appId: 104547
+bundleId: 463594
+url: https://agaidus.shinyapps.io/Final/
+when: 1464280272.99752
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: agaidus_shinyapp_presentation.md|agaidus_shinyapp_presentation.Rpres|ModelScreenshot.jpg|Thumbs.db|agaidus_shinyapp_presentation-figure/Thumbs.db|agaidus_shinyapp_presentation-figure/unnamed-chunk-1-1.png|agaidus_shinyapp_presentation-figure/unnamed-chunk-2-1.png
